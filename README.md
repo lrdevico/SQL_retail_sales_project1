@@ -7,3 +7,7 @@ The focus of the project is:
 - Aggregating sales by category and gender
 - Filtering by dates and values
 - Adding percentages and ranking performance
+
+The dataset and a few of the analysis questions were inspired by this  
+[SQL project walkthrough on YouTube](https://youtu.be/ChIQjGBI3AM?si=6jUn3IDuZoxzEjt0)  
+While I followed some of the same questions from the video, I also added my own ideas and used this opportunity to improve my understanding of SQL.
